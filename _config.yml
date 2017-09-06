@@ -1,0 +1,18 @@
+title: MedicMate - 
+email: info@medicmate.io
+description: >
+    MedicMate is the mobile reference solution for EMS agencies. Get
+    real-time hospital divert status updates and see current travel times.
+    Agency administrators can customize the SOPs/SOGs available on devices,
+    as well as choosing from a selection of state-wide medical and MCI
+    protocols.
+keywords:
+    - ems field guide
+    - ems protocol
+    - ems software
+
+# Build settings
+markdown: kramdown
+exclude:
+    - Gemfile
+    - Gemfile.lock
